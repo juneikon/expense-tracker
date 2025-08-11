@@ -24,7 +24,7 @@ A desktop application to track daily expenses with filtering capabilities, built
 
 ### Basic Installation
 ```bash
-git clone https://github.com/yourusername/expense-tracker.git
+git clone https://github.com/juneikon/expense-tracker.git
 cd expense-tracker
 python expense_tracker.py
 *Note: Requires Python 3.6+ with Tkinter (usually included in standard Python installation)*
